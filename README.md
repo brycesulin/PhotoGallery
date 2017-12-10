@@ -2,8 +2,6 @@
 Android School Project
 
 Screenshots:
-<img width="1440" alt="screen shot 2017-12-10 at 7 55 13 am" src="https://user-images.githubusercontent.com/20143504/33805564-cd084908-dd80-11e7-945a-1669f8cb98c4.png">
-
 <img width="282" alt="screen shot 2017-12-10 at 7 55 15 am" src="https://user-images.githubusercontent.com/20143504/33805565-d3f4806a-dd80-11e7-8823-1de60d338ace.png">
 
 <img width="281" alt="screen shot 2017-12-10 at 7 55 31 am" src="https://user-images.githubusercontent.com/20143504/33805567-d9f342da-dd80-11e7-9728-ddad037d46bf.png">
